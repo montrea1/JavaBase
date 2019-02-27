@@ -39,7 +39,7 @@ public class Demo1_Map {
         map.put("c",3);
         map.put("d",4);
 
-//        Set<Map.Entry<String, Integer>> entrySet=map.entrySet();
+//        Set<Map.Entry<String, Integer>> entrySet=TestMap.entrySet();
 //        Iterator<Map.Entry<String,Integer>>it=entrySet.iterator();
 //        while (it.hasNext()){
 //            Map.Entry<String,Integer>entry=it.next();
