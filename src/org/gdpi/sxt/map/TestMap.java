@@ -1,7 +1,10 @@
 package org.gdpi.sxt.map;
 
-public class TestMap {
+import java.util.HashMap;
+import java.util.Map;
 
+public class TestMap {
+    Map map=new HashMap<>();
 }
 
 class  Employee{
