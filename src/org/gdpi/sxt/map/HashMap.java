@@ -97,16 +97,6 @@ public class HashMap<K,V> {
         return v&(length-1);
     }
 
-    public static void main(String[] args) {
-        HashMap<Integer,String> m=new HashMap();
-        m.put(10,"a");
-        m.put(456,"ac");
-        m.put(20,"ac");
-        m.put(1,"b");
-        System.out.println(m);
-        System.out.println(m.get(1));
-    }
-
 
 }
 

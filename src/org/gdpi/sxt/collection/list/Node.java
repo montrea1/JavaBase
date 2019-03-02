@@ -1,4 +1,4 @@
-package org.gdpi.sxt.collection;
+package org.gdpi.sxt.collection.list;
 
 public class Node {
 

@@ -1,10 +1,10 @@
-package org.gdpi.sxt.collection;
+package org.gdpi.sxt.collection.list;
 
 /***
  * 自定义链表
  * */
 public class LinkedList {
-    private  Node first; //第一个节点
+    private Node first; //第一个节点
     private Node last; //最后一个节点
 
     private  int size; //长度
